@@ -1,14 +1,13 @@
-# Calculator App
-## Features ✨
+# Hesap Makinesi Uygulaması
 
-- Clear (`C`) button  
-- Equal (`=`) button for calculation  
-- Responsive and attractive design  
-- Error handling for invalid expressions  
+## Özellikler 
+ 
+- Duyarlı ve çekici tasarım  
+- Geçersiz ifadeler için hata işleme  
 
-## Usage ⚡
+## kullanım şekli 
 
-1. Open `index.html` in a browser  
-2. Click buttons to input numbers and operators  
-3. Press `=` to get the result  
-4. Press `C` to clear the display  
+1. `index.html` dosyasını bir tarayıcıda açın  
+2. Sayıları ve operatörleri girmek için düğmelere tıklayın 
+3. Sonucu almak için `=` tuşuna basın  
+4. Ekranı temizlemek için `C` tuşuna basın  
